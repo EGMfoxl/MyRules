@@ -34,7 +34,6 @@ rules=(
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
   "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" #CJX's Annoyance 
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" #StevenBlack
-  "https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker" #neodevhost
  )
 
 allow=(
