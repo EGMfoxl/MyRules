@@ -22,6 +22,7 @@ rules=(
   "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt" #1hosts
   "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt" #HyperADRules 
   "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"
+  "https://www.i-dont-care-about-cookies.eu/abp/"
  )
 
 allow=(
