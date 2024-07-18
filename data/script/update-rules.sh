@@ -16,11 +16,8 @@ cd tmp
 echo '下载规则'
 rules=(
   "https://hblock.molinero.dev/hosts_adblock.txt" #hblock
-  "https://easylist-downloads.adblockplus.org/easylist.txt" #EasyList
-  "https://easylist-downloads.adblockplus.org/easylistchina.txt" #EasyListChina
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
   "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" #CJX's Annoyance
-  "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" #StevenBlack
   "https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts" #1024hosts
   "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt" #1hosts
   "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt" #HyperADRules
