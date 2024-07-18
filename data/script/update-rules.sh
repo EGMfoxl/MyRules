@@ -13,19 +13,42 @@ mkdir -p ./tmp/
 
 cd tmp
 
+
 echo '下载规则'
 rules=(
-  "https://hblock.molinero.dev/hosts_adblock.txt" #hblock
+  "https://anti-ad.net/easylist.txt" #anti-AD
+  "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts" #大圣净化
+  "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts" #yhosts
+  "https://filters.adtidy.org/android/filters/11_optimized.txt" #adg移动设备过滤器
+  "https://filters.adtidy.org/android/filters/17_optimized.txt"  #adgURL过滤器
+  "https://filters.adtidy.org/android/filters/3_optimized.txt" #adg防跟踪
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt" #基础过滤器
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt" #AdGuard中文过滤器
+  "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt" #Tv规则
+  "https://easylist-downloads.adblockplus.org/easylist.txt" #EasyList
+  "https://easylist-downloads.adblockplus.org/easylistchina.txt" #EasyList China
+  "https://easylist-downloads.adblockplus.org/easyprivacy.txt" #EasyPrivacy隐私保护规则
+  "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示规则
+  "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
+  "https://big.oisd.nl/" #oisd规则
+  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风规则
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
-  "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" #CJX's Annoyance
+  "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" #CJX's Annoyance 
+  "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" #StevenBlack
   "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt" #1hosts
   "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt" #HyperADRules
-  
-  
+  "https://hblock.molinero.dev/hosts_adblock.txt" #hblock
  )
 
 allow=(
-  "https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt"
+  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt"
+  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/allowlist.txt"
+  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/allowlist.txt"
+  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/allowlist.txt"
+  "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
+  "https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_whitelist.txt"
+  "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
+  "https://raw.githubusercontent.com/ChengJi-e/AFDNS/master/QD.txt" 
   "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt"
 )
 
