@@ -17,11 +17,9 @@ cd tmp
 echo '下载规则'
 rules=(
 #  "https://big.oisd.nl/" #oisd规则
-#  "https://www.i-dont-care-about-cookies.eu/abp/"
-#  "https://hblock.molinero.dev/hosts_adblock.txt" #hblock
-#  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt" #afwfv
-#  "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts" #yhosts
-  "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts" #大圣净化
+  "https://www.i-dont-care-about-cookies.eu/abp/"
+  "https://hblock.molinero.dev/hosts_adblock.txt" #hblock
+  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt" #afwfv
 #  "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt" #1hosts
 #  "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
 #  "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示
