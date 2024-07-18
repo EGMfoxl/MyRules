@@ -17,11 +17,11 @@ cd tmp
 echo '下载规则'
 rules=(
   "https://big.oisd.nl/" #oisd规则
-  "https://easylist.to/easylist/easylist.txt"
-  "https://easylist.to/easylist/easyprivacy.txt"
+#  "https://easylist.to/easylist/easylist.txt"
+#  "https://easylist.to/easylist/easyprivacy.txt"
   "https://www.i-dont-care-about-cookies.eu/abp/"
-  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt" #afwfv
-  "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt" #1hosts
+  "https://hblock.molinero.dev/hosts_adblock.txt" #hblock
+  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt" #afwfv  
   "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风
  )
