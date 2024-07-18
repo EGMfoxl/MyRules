@@ -2,15 +2,13 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/EGMfoxl/MyRules
 ! Expires: 12 Hours
-! Version: 2024-07-18 21:04:34（北京时间）
+! Version: 2024-07-18 21:06:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 407
-@@*$redirect-rule,domain=d3ward.github.io
+! Total count: 350
 @@*.flyme.cn
 @@*.myapp.com
 @@bit.ly
 @@cdn.*.qq.com
-@@down.360safe.com^
 @@goo.gl
 @@guoqiangti.cf
 @@m.video.xiaomi.com
@@ -39,24 +37,16 @@
 @@||*.y.qq.com^$important
 @@||126.net^$important
 @@||163.com^$important
-@@||316.coolapk1s.com^
-@@||360.cn^
 @@||3gimg.qq.com^$important
 @@||96956.com.cn^$important
 @@||a0.app.xiaomi.com
 @@||acs.m.taobao.com^
 @@||acs.m.taobao.com^$important
 @@||activity.tuiapple.com^$important
-@@||ad.10010.com^
-@@||ad.abchina.com^
-@@||ad.kazakinfo.com^
-@@||ad.ourgame.com^
-@@||adcdn.pingan.com^
 @@||adidasapp.api.adidas.com.cn^$important
 @@||adnmb3.com^
 @@||adsmind.gdtimg.com^$important
 @@||adstats.tencentmusic.com^$important
-@@||advert.kf5.com^
 @@||akamaized.net^$important
 @@||alicdn.com^$important
 @@||alissl.ucdl.pp.uc.cn^$important
@@ -65,23 +55,19 @@
 @@||aliyuncs.com^
 @@||analytics.yinxiang.com^$important
 @@||api.account.xiaomi.com^$important
-@@||api.ads.tvb.com^
 @@||api.comm.miui.com^$important
-@@||api.coolapk.com^
 @@||api.device.xiaomi.net^$important
 @@||api.io.mi.com^$important
 @@||api.jr.mi.com^$important
 @@||api.micloud.xiaomi.net^$important
 @@||api.miui.security.xiaomi.com^$important
 @@||api.rikka.app^$important
-@@||api.sec.miui.com^
 @@||api.sec.miui.com^$important
 @@||api.ts.feedback.qy.net^$important
 @@||api.video.xiaomi.com^$important
 @@||api.zhihu.com^$important
 @@||api.zhuti.xiaomi.com^$important
 @@||apis.google.com
-@@||app-advertise.zhihuishu.com^
 @@||app-measurement.com^$important
 @@||app.market.xiaomi.com^$important
 @@||app.zhuanzhuan.com^$important
@@ -89,26 +75,20 @@
 @@||appmsg.gzmtr.cn^$important
 @@||appsupport.qq.com^$important
 @@||at.umeng.com^$important
-@@||avatar.coolapk.com^
 @@||baijiahao.baidu.com^$important
 @@||baike.so.com^$important
 @@||bigota.d.miui.com^$important
 @@||bing.com^$important
-@@||bjfesdk.douyucdn.cn^
 @@||bmap6.cn^$important
 @@||bonuscloud.io^$important
-@@||bootcdn.net^
 @@||broadcastlv.chat.bilibili.com^
 @@||broccoli.uc.cn^$important
 @@||btrace.qq.com^$important
-@@||buyad.bi-xenon.cn^
 @@||c.pc.qq.com^
 @@||c.pc.qq.com^$important
 @@||c.tieba.baidu.com^$important
 @@||c.y.qq.com^
 @@||c.y.qq.com^$important
-@@||captcha.su.baidu.com^
-@@||cbsi.map.fastly.net^
 @@||cc.map.qq.com^$important
 @@||cdn.ark.qq.com^$important
 @@||cdn.bootcdn.net^
@@ -122,7 +102,6 @@
 @@||clients.l.google.com
 @@||clients1.google.com
 @@||cmshow.qq.com^$important
-@@||cn.app.chat.xiaomi.net^
 @@||cn.app.chat.xiaomi.net^$important
 @@||cn.bing.com^$important
 @@||cn.ekg.riotgames.com^$important
@@ -154,7 +133,6 @@
 @@||dot.360.cn^$important
 @@||down.sandai.net^
 @@||downum.game.uc.cn^$important
-@@||drive.quark.cn^
 @@||duapps.com^$important
 @@||duckduckgo.com^$important
 @@||duiba.com.cn^$important
@@ -162,7 +140,6 @@
 @@||ele.me^
 @@||eleme.cn^
 @@||elemecdn.com^
-@@||equifaxps.122.2o7.net^
 @@||exp.sug.browser.miui.com^$important
 @@||f*.market.mi-img.com^$important
 @@||f*.market.xiaomi.com^$important
@@ -179,9 +156,7 @@
 @@||g.shumafen.cn^$important
 @@||gcable.com.cn^$important
 @@||get.sogou.com^$important
-@@||gia.jd.com^
 @@||gia.jd.com^$important
-@@||gift.douyucdn.cn^
 @@||github.com^$important
 @@||githubusercontent.com^$important
 @@||gma.alicdn.com^
@@ -193,13 +168,11 @@
 @@||hosts-file.net^$important
 @@||i.tianqi.com^$important
 @@||i.ytimg.com
-@@||ib.snssdk.com^
 @@||ib11.go2yd.com^$important
 @@||iface2.iqiyi.com^$important
 @@||iflow.uc.cn^$important
 @@||im.qq.com^$important
 @@||image.uc.cn^$important
-@@||img.ads.tvb.com^
 @@||img.zuoyebang.cc^$important
 @@||imgcache.qq.com^$important
 @@||imtt.dd.qq.com^$important
@@ -210,26 +183,17 @@
 @@||ip.cn^$important
 @@||ip.rtbasia.com^
 @@||ip.taobao.com^$important
-@@||is.snssdk.com^
 @@||issuecdn.baidupcs.com^$important
 @@||iteye.com^$important
 @@||jr.jd.com^$important
 @@||jumpluna.58.com^$important
-@@||kiplinger.112.2o7.net^
 @@||kyaru-concat.now.sh^$important
-@@||lf1-cdn-tos.bytegoofy.com^
-@@||lf3-cdn-tos.bytegoofy.com^
-@@||lf6-cdn-tos.bytegoofy.com^
 @@||lhl.zxcs.linghit.com^$important
-@@||log-api.pangolin-sdk-toutiao-b.com^
-@@||log-api.pangolin-sdk-toutiao.com^
-@@||logging.apache.org^
 @@||login.bce.baidu.com^$domain=login.bce.baidu.com
 @@||logs.game.qq.com^$important
 @@||lol.qq.com^$important
 @@||lpl.qq.com^$important
 @@||m.jiaoyimao.com^$important
-@@||m.jingxi.com^
 @@||m.manhuabei.com^$important
 @@||m.video.9ddm.com^$important
 @@||m.video.xiaomi.com^$important
@@ -245,7 +209,6 @@
 @@||mbd.baidu.com^$important
 @@||meizu.com^
 @@||metok.sys.miui.com^$important
-@@||metrics.torproject.org^
 @@||mi-img.com^$important
 @@||mi.com^$important
 @@||mibi.api.xiaomi.com^$important
@@ -257,27 +220,19 @@
 @@||mobile.yangkeduo.com^$important
 @@||mos.m.taobao.com^$important
 @@||mparticle.uc.cn^$important
-@@||msg.douyu.com^
-@@||myquark.cn^
 @@||na61-na62.wagbridge.advertisement.alibabacorp.com.gds.alibabadns.com^$important
 @@||na61-na62.wagbridge.advertisement.alibabacorp.com^$important
 @@||nav.browser.miui.com^
-@@||nf.pl/js/libs/cookiesDirective.js$script
-@@||o.auspost.com.au.ssl.d2.sc.omtrdc.net
 @@||o2o.api.xiaomi.com^$important
 @@||ohssr.cn^$important
 @@||oppo.yidianzixun.com^$important
-@@||optout.rlcdn.com^
 @@||oss-asq-static.11222.cn^$important
 @@||p2p.huya.com^$important
 @@||package.wallpaper.cdn.pandora.xiaomi.com.lan^$important
-@@||pan.quark.cn^
 @@||parked-content.godaddy.com^$important
 @@||passport.youdao.com^$important
-@@||payapp.weixin.qq.com^
 @@||pdc.micloud.xiaomi.net^$important
 @@||phonecallapi.micloud.xiaomi.net^$important
-@@||pic.imgdb.cn
 @@||pic.mairuan.com^$important
 @@||pingfore.qq.com^$important
 @@||pinghot.qq.com^$important
@@ -300,12 +255,9 @@
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
 @@||recmd.html5.qq.com^$important
 @@||reddit
-@@||redirect.appmetrica.yandex.com^
-@@||redirect.appmetrica.yandex.net^
 @@||res.imtt.qq.com^$important
 @@||resolver.msg.xiaomi.net^$important
 @@||s.click.taobao.com^$important
-@@||sdk.open.talk.gepush.com^
 @@||sec-cdn.static.xiaomi.net^$important
 @@||sec.resource.xiaomi.net^$important
 @@||self.events.data.microsoft.com^$important
@@ -314,7 +266,6 @@
 @@||simg.sinajs.cn^$important
 @@||sina.cn^$important
 @@||sm.cn^$important
-@@||smartpixel.tv
 @@||snssdk.com^$important
 @@||sofire.baidu.com^$important
 @@||soft.tbs.imtt.qq.com^$important
@@ -324,7 +275,6 @@
 @@||spotifycdn.net^$important
 @@||sqimg.qq.com^$important
 @@||ssl-cdn.static.browser.mi-img.com^$important
-@@||ssl.o.auspost.com.au
 @@||stat.api.4399.com^
 @@||stat.y.qq.com^$important
 @@||statics.itc.cn^$important
@@ -342,10 +292,8 @@
 @@||tdid.m.qq.com^$important
 @@||thirdwx.qlogo.cn^$important
 @@||toutiaocdn.com^$important
-@@||track2.royalmail.com^
 @@||tracker.ai.xiaomi.com^
 @@||tracker.ai.xiaomi.com^$important
-@@||tracker.namitiyu.com^
 @@||translator.qq.com^$important
 @@||ts.market.mi-img.com^$important
 @@||tvepg.pandora.xiaomi.com^$important
@@ -353,7 +301,6 @@
 @@||uczzd.cn^$important
 @@||uee.me^$important
 @@||uland.taobao.com^$important
-@@||umengjmacs.m.taobao.com^
 @@||unet.ucweb.com^$important
 @@||update.miui.com^$important
 @@||upgrade.ptmi.gitv.tv^$important
@@ -366,14 +313,12 @@
 @@||vectorsdk.map.qq.com^$important
 @@||view.inews.qq.com^$important
 @@||vmware.com^$important
-@@||vodafonelimited.tt.omtrdc.net^
 @@||w.pandora.xiaomi.com^$important
 @@||waimai-guide.ele.me^
 @@||wallpaper.cdn.pandora.xiaomi.com^$important
 @@||wappass.baidu.com^
 @@||wbapp.mobile.sina.cn^$important
 @@||web.vip.miui.com^$important
-@@||webtrack.dhlglobalmail.com^
 @@||weibo.cn^$important
 @@||weidian.com^$important
 @@||weixin.qq.com^
@@ -384,7 +329,6 @@
 @@||work.weixin.qq.com^$important
 @@||worldwide.sogou.com^$important
 @@||wqsd.jd.com
-@@||www.bqgyy.com^
 @@||www.chemdraw.com.cn^$important
 @@||www.google.com^$important
 @@||www.gstatic.com
@@ -395,7 +339,6 @@
 @@||www.recaptcha.net^$important
 @@||www.youtube-nocookie.com
 @@||www.youtube.com^$important
-@@||wwwimage-tve.cbsstatic.com^
 @@||wx2.sinaimg.cn^$important
 @@||xn--ngstr-lra8j.com^$important
 @@||xzz.xiaomin.tech^$important
