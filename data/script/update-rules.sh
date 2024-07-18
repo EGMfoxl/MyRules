@@ -16,7 +16,7 @@ cd tmp
 
 echo '下载规则'
 rules=(
-  "https://big.oisd.nl/" #oisd规则
+#  "https://big.oisd.nl/" #oisd规则
 #  "https://www.i-dont-care-about-cookies.eu/abp/"
 #  "https://hblock.molinero.dev/hosts_adblock.txt" #hblock
 #  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt" #afwfv
@@ -25,7 +25,7 @@ rules=(
 #  "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt" #1hosts
 #  "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
 #  "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示
-#  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风
+  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风
  )
 
 allow=(
