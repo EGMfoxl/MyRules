@@ -22,26 +22,19 @@ rules=(
   "https://easylist-downloads.adblockplus.org/easylistchina.txt" #EasyListChina
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt" #乘风视频规则
-  "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" #CJX's Annoyance 
+  "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" #CJX's Annoyance
+  "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示规则
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风规则
   "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt" #Tv规则
   "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts" #yhosts
   "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts" #大圣净化
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" #StevenBlack
   "https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts" #1024hosts
-  "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
-  "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt" #乘风视频规则
-  "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示规则
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt" #adg基础过滤器
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt" #adg防跟踪
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt" #adgURL
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt" #adg移动设备过滤器
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt" #adg中文过滤器
+  "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" #StevenBlack
+  "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
  )
 
 allow=(
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt"
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/allowlist.txt"
   "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
   "https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_whitelist.txt"
   "https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt"
