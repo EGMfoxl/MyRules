@@ -27,7 +27,6 @@ rules=(
 allow=(
   "https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt"
   "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt"
-  "https://raw.githubusercontent.com/Goooler/1024_hosts/master/whitelist"
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"
