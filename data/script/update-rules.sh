@@ -16,18 +16,21 @@ cd tmp
 
 echo '下载规则'
 rules=(
-  "https://hblock.molinero.dev/hosts_adblock.txt" #hblock
-  "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
-  "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" #CJX's Annoyance
-  "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt" #1hosts
-  "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt" #HyperADRules 
-  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"
+  "https://big.oisd.nl/" #oisd规则
   "https://www.i-dont-care-about-cookies.eu/abp/"
+  "https://hblock.molinero.dev/hosts_adblock.txt" #hblock
+  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt" #afwfv
+  "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts" #yhosts
+  "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts" #大圣净化
+  "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt" #1hosts
+  "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
+  "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示
+  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风
  )
 
 allow=(
-  "https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt"
-  "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt"
+  "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
+  "https://raw.githubusercontent.com/ChengJi-e/AFDNS/master/QD.txt"
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"
