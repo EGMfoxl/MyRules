@@ -16,7 +16,7 @@ cd tmp
 echo '下载规则'
 rules=(
   "https://big.oisd.nl/" #oisd规则
-  "https://anti-ad.net/easylist.txt" #anti-AD
+  "https://hblock.molinero.dev/hosts_adblock.txt" #hblock
   "https://easylist-downloads.adblockplus.org/easylist.txt" #EasyList
   "https://easylist-downloads.adblockplus.org/easyprivacy.txt" #EasyPrivacy
   "https://easylist-downloads.adblockplus.org/easylistchina.txt" #EasyListChina
@@ -32,6 +32,12 @@ rules=(
   "https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts" #1024hosts
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" #StevenBlack
   "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt" #AdGuard Base filter
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt" #AdGuard Chinese filter
+  "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt" #AdGuard DNS filter
+  "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt" #1hosts
+  
+  
  )
 
 allow=(
