@@ -17,7 +17,8 @@ cd tmp
 echo '下载规则'
 rules=(
   "https://small.oisd.nl/" #oisd规则
-  "https://hblock.molinero.dev/hosts_adblock.txt" #hblock
+  "https://easylist.to/easylist/easylist.txt
+  "https://easylist-downloads.adblockplus.org/easylistchina.txt"
   "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt" #afwfv  
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风
  )
