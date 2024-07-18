@@ -16,7 +16,7 @@ cd tmp
 
 echo '下载规则'
 rules=(
-  "https://big.oisd.nl/" #oisd规则
+  "https://small.oisd.nl/" #oisd规则
   "https://easylist.to/easylist/easylist.txt"
   "https://easylist.to/easylist/easyprivacy.txt"
   "https://www.i-dont-care-about-cookies.eu/abp/"
