@@ -2,9 +2,9 @@
 ! Title: Rules
 ! Homepage: https://github.com/EGMfoxl/MyRules
 ! Expires: 12 Hours
-! Version: 2024-07-19 18:58:52（北京时间）
+! Version: 2024-07-19 20:21:56（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 109325
+! Total count: 109326
 
 ###AC_ad
 ###AD_160
@@ -36087,6 +36087,7 @@ zzzyk.com###Tinfo
 ||7011.stia.cn^
 ||70822.com/agfile/
 ||70b25fad84.ecaecc3e17.com^
+||70b927c8.live^$document,popup
 ||70d4a0bb45.e82ae52eec.com^
 ||71.am^
 ||7160.com/js/tiaozhuanquanju.js
