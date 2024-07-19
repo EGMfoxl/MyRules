@@ -2,9 +2,9 @@
 ! Title: Rules
 ! Homepage: https://github.com/EGMfoxl/MyRules
 ! Expires: 12 Hours
-! Version: 2024-07-18 22:00:54（北京时间）
+! Version: 2024-07-19 08:57:50（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 110080
+! Total count: 110096
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -10872,6 +10872,7 @@
 ||ahngxh.palladiumhotelgroup.com^
 ||ahnrmb.topvintage.de^
 ||ahoxirsy.com^
+||ahoy-internal-ads-hv.b-cdn.net^
 ||ahporntube.com^
 ||ahpphkc.xyz^
 ||ahqpqpdjpj.com^
@@ -16830,6 +16831,7 @@
 ||baghoorg.xyz^
 ||bagiijdjejjcficbaag.world^
 ||bagjuxtapose.com^
+||baglanbize.net^
 ||baglaubs.com^
 ||bagletantle.top^
 ||baglezymoses.com^
@@ -20515,6 +20517,7 @@
 ||bxlsct.ex-shop.net^
 ||bxmpcfzlllej.com^
 ||bxnxdlb.xyz^
+||bxoaeju.icu^
 ||bxoiksm.xyz^
 ||bxpjpkldxrsss.xyz^
 ||bxrfbsrlerio.com^
@@ -22266,6 +22269,7 @@
 ||chaxensa.net^
 ||chayassa.com^
 ||chbheroq.xyz^
+||chbujyjyvshtcr.com^
 ||chdkxgjtwflba.com^
 ||cheap-trip.pro^
 ||cheapcinema.club^
@@ -31973,6 +31977,7 @@
 ||dfec4f079e.com^
 ||dfejqmh.cn^
 ||dfepsqnbje.com^
+||dffa09cade.com^
 ||dffb69a70f.com^
 ||dffhhqka.com^
 ||dffpxg.targus.com^
@@ -46282,6 +46287,7 @@
 ||hpcfdhvwjwlt.com^
 ||hpcwwd.com^
 ||hpcyk.com^
+||hpeaxbmuh.com^
 ||hpepeepce.com^
 ||hpgmkbt.icu^
 ||hphtjv.orellfuessli.ch^
@@ -51063,6 +51069,7 @@
 ||jekzyyowqwwrz.top^
 ||jekzyyowqwwwy.top^
 ||jelfmtsr5i.ru^
+||jelliescroon.click^
 ||jellifygummier.top^
 ||jelllearnedhungry.com^
 ||jellyfish.teresaharlow.com^
@@ -51848,6 +51855,7 @@
 ||jscode.jbzj.com^
 ||jscoinminer.com^
 ||jscount.com^
+||jsdelivr.vip^
 ||jsdelvr.com^
 ||jsecoin.com^
 ||jsefrmwji.com^
@@ -52414,6 +52422,7 @@
 ||kazanbossterrifying.com^
 ||kazqkjyztvv.com^
 ||kbadguhvqig.xyz^
+||kbadkxocv.com^
 ||kbao7755.de^
 ||kbayke.xyz^
 ||kbbrptv.xyz^
@@ -57948,6 +57957,7 @@
 ||mackeeperapp.mackeeper.com^
 ||mackerel.passiveincome.io^
 ||macmorin.net.anwalt.de^
+||macoms.la^
 ||macro.adnami.io^
 ||mad.mobisky.pl^
 ||madadsmedia.com^
@@ -60363,6 +60373,7 @@
 ||mdhv.io^
 ||mdhv3.icu^
 ||mdhxyhl.cn^
+||mdipsumx.top^
 ||mdiygc.xyz^
 ||mdjdpyrt.xyz^
 ||mdm.hibinobi-mandom.jp^
@@ -67259,6 +67270,7 @@
 ||ofdnkro.xyz^
 ||ofdrapiona.com^
 ||ofdxfsho.com^
+||ofebyk.xyz^
 ||ofedupub.com^
 ||offalakazaman.com^
 ||offchatotor.com^
@@ -69057,6 +69069,7 @@
 ||ouvjnb.westernbikeworks.com^
 ||ouvrestance.com^
 ||ouwhejoacie.xyz^
+||ouxourtoo.com^
 ||ouyoqudevfal.com^
 ||ouzavamt.com^
 ||ouzeelre.net^
@@ -73909,6 +73922,7 @@
 ||ptaissud.com^
 ||ptaixout.net^
 ||ptalribs.xyz^
+||ptamselrou.com^
 ||ptanguth.com^
 ||ptapjmp.com^
 ||ptarmigan.bridal-hair-and-accessories-now.com^
@@ -76131,6 +76145,7 @@
 ||rebelliousdesertaffront.com^
 ||rebillsegomism.com^
 ||rebindskayoes.com^
+||rebojf.xyz^
 ||rebrew-foofteen.com^
 ||rebsoapo.com^
 ||rebsouvaih.com^
@@ -100194,6 +100209,7 @@
 ||tvlaavcxdxlqan.com^
 ||tvpixel.com^
 ||tvppa.actonservice.com^
+||tvpqnh.xyz^
 ||tvpqrydt.xyz^
 ||tvprocessing.com^
 ||tvqqrycnutpp.com^
