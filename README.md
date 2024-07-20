@@ -14,7 +14,7 @@ DNS拦截规则数量: 239088
 - **[拦截规则（Github）](https://raw.githubusercontent.com/EGMfoxl/MyRules/main/rules.txt)**
 - **[拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/EGMfoxl/MyRules/main/rules.txt)**
 - **[DNS拦截规则（Github）](https://raw.githubusercontent.com/EGMfoxl/MyRules/main/dns.txt)**
-- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/EGMfoxl/MyRulesmain/dns.txt)**
+- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/EGMfoxl/MyRules/main/dns.txt)**
 - **[白名单（Github）](https://raw.githubusercontent.com/EGMfoxl/MyRules/main/allow.txt)**
 - **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/EGMfoxl/MyRules/main/allow.txt)**
 
