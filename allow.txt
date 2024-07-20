@@ -2,10 +2,9 @@
 ! Title: Rules
 ! Homepage: https://github.com/EGMfoxl/MyRules
 ! Expires: 12 Hours
-! Version: 2024-07-20 18:10:35（北京时间）
+! Version: 2024-07-20 18:21:50（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2161
-@-webkit-keyframes tooltip-appear{from{opacity:0;}to{opacity:1;}}/*!sc*/
+! Total count: 2130
 @@$generichide,domain=vidoza.co|vidoza.net
 @@*.flyme.cn
 @@*.myapp.com
@@ -2135,33 +2134,3 @@
 @@||zpmobi.cn^*/ad.css?$stylesheet
 @@||zxcs.me^
 @@||zxmee.com^$generichide
-@keyframes tooltip-appear{from{opacity:0;}to{opacity:1;}}/*!sc*/
-@media (forced-colors:active){.bObMPx:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.bzrqMq:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.fPqezr:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.fXPhKS:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.gsAScr:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.ifFWTh:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.ipOGIj:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.jTAxWY:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.jiwwtK:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.kaFZev:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.lcvTKe:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (forced-colors:active){.lkvrvO:focus{outline:solid 1px transparent;}}/*!sc*/
-@media (min-width:768px){.cXNreu{font-size:14px;}}/*!sc*/
-@media (pointer:coarse){.dAjliH:before{content:"";position:absolute;left:0;right:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);top:50%;min-height:44px;}}/*!sc*/
-@media (pointer:coarse){.fIktcg:before{content:"";position:absolute;left:0;right:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);top:50%;min-height:44px;}}/*!sc*/
-@media print,screen and (max-width:1011px) and (min-width:768px){.irYKVt{display:none;}}/*!sc*/
-@media print{.emFMJu{display:-webkit-box !important;display:-webkit-flex !important;display:-ms-flexbox !important;display:flex !important;}}/*!sc*/
-@media screen and (max-width:768px){.bObMPx[data-no-visuals]{display:none;}}/*!sc*/
-@media screen and (max-width:768px){.bzrqMq{display:block;}}/*!sc*/
-@media screen and (min-width:1280px){.gNdDUH{--pane-max-width-diff:959px;}}/*!sc*/
-@media screen and (min-width:1360px){.iPEkxH{display:block;}}/*!sc*/
-@media screen and (min-width:544px){.brJRqk{-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;}}/*!sc*/
-@media screen and (min-width:544px){.gvCnwW{width:100%;}}/*!sc*/
-@media screen and (min-width:544px){.irYKVt{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}}/*!sc*/
-@media screen and (min-width:544px){}/*!sc*/
-@media screen and (min-width:768px){.eUyHuk{margin-left:0 !important;margin-right:0 !important;}}/*!sc*/
-@media screen and (min-width:768px){.gNdDUH{width:clamp(var(--pane-min-width),var(--pane-width),var(--pane-max-width));overflow:auto;}}/*!sc*/
-@media screen and (min-width:768px){.gvCnwW{width:auto;}}/*!sc*/
-@media screen and (min-width:768px){.irYKVt{width:auto;margin-top:0 !important;margin-bottom:0 !important;position:-webkit-sticky;position:sticky;top:0px;max-height:100vh !important;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;margin-right:0;height:100vh;}}/*!sc*/
