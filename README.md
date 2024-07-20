@@ -11,12 +11,12 @@ DNS拦截规则数量: 239088
 <summary>规则列表</summary>
 <ul>
 
-- **[拦截规则（Github）](https://raw.githubusercontent.com/EGMfoxl/MyRules/master/rules.txt)**
-- **[拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/EGMfoxl/MyRules/master/rules.txt)**
-- **[DNS拦截规则（Github）](https://raw.githubusercontent.com/EGMfoxl/MyRules/master/dns.txt)**
-- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/EGMfoxl/MyRules/master/dns.txt)**
-- **[白名单（Github）](https://raw.githubusercontent.com/EGMfoxl/MyRules/master/allow.txt)**
-- **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/EGMfoxl/MyRules/master/allow.txt)**
+- **[拦截规则（Github）](https://raw.githubusercontent.com/EGMfoxl/MyRules/main/rules.txt)**
+- **[拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/EGMfoxl/MyRules/main/rules.txt)**
+- **[DNS拦截规则（Github）](https://raw.githubusercontent.com/EGMfoxl/MyRules/main/dns.txt)**
+- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/EGMfoxl/MyRulesmain/dns.txt)**
+- **[白名单（Github）](https://raw.githubusercontent.com/EGMfoxl/MyRules/main/allow.txt)**
+- **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/EGMfoxl/MyRules/main/allow.txt)**
 
 </ul>
 </details>
