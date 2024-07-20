@@ -2,9 +2,9 @@
 ! Title: Rules
 ! Homepage: https://github.com/EGMfoxl/MyRules
 ! Expires: 12 Hours
-! Version: 2024-07-19 20:21:56（北京时间）
+! Version: 2024-07-20 08:55:14（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 62314
+! Total count: 62343
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -1095,6 +1095,7 @@
 ||3fa244b7eb.com^
 ||3fb4026cec.ffbd26c481.com^
 ||3fba1b901c.com^
+||3fc0ebfea0.com^
 ||3fwlr7frbb.pro^
 ||3g25ko2.de^
 ||3gbqdci2.de^
@@ -7146,7 +7147,6 @@
 ||api.htp.hubcloud.com.cn^
 ||api.hugemedia.cz^
 ||api.hzsanjiaomao.com^
-||api.instabug.com^
 ||api.installer.xiaomi.com^
 ||api.intensifier.de^
 ||api.iterable.com^
@@ -7168,7 +7168,6 @@
 ||api.primecaster.net^
 ||api.pubfinity.com^
 ||api.sa.hismarttv.com^
-||api.sardine.ai^
 ||api.share.mob.com^
 ||api.slice.exchange^
 ||api.smartnews-ads.com^
@@ -9237,6 +9236,7 @@
 ||bashfuladvancedeliberately.com^
 ||bashnourish.com^
 ||bashwhoopflash.com^
+||basicallyspacecraft.com^
 ||basicflownetowork.co.in^
 ||basictreadcontract.com^
 ||basicwhenpear.com^
@@ -13127,6 +13127,7 @@
 ||channelvids.online^
 ||channelvids.space^
 ||chantmaftir.uno^
+||chaoyumiao.com^
 ||chapcompletefire.com^
 ||chapelalanine.com^
 ||chapseel.com^
@@ -14039,6 +14040,7 @@
 ||clumperrucksey.life^
 ||clumsinesssinkingmarried.com^
 ||clumsyflint.com^
+||clumsyshare.com^
 ||cluodlfare.com^
 ||clurvypxvji.com^
 ||cluster.adultworld.com^
@@ -15514,6 +15516,7 @@
 ||crsspxl.com^
 ||crta.dailymail.co.uk^
 ||crta.metro.co.uk^
+||crtlisf.top^
 ||crtracklink.com^
 ||crtv.mate1.com^
 ||crubtokopat.top^
@@ -15660,6 +15663,7 @@
 ||cubbingrebbes.com^
 ||cubchillysail.com^
 ||cubeslichees.com^
+||cubeuptownpert.com^
 ||cubgeographygloomily.com^
 ||cubicnought.com^
 ||cubics.com^
@@ -19047,6 +19051,7 @@
 ||dositsil.net^
 ||dosliggooor.com^
 ||dosre12.xyz^
+||dossestarairi.shop^
 ||dossmanaventre.top^
 ||dossouwe.net^
 ||doswinuba.com^
@@ -21361,7 +21366,6 @@
 ||euz.net^
 ||ev-dating.com^
 ||ev.api.bdg.com^
-||ev.indianexpress.com^
 ||ev.kck.st^
 ||ev.tpocdm.com^
 ||evaluateuncanny.com^
@@ -22608,6 +22612,7 @@
 ||fhisladyloveh.xyz^
 ||fhjvhupv.com^
 ||fhlceugidb.xyz^
+||fhnbrx.xyz^
 ||fhsmtrnsfnt.com^
 ||fhsvyfoadsbo.com^
 ||fhtfnb.xyz^
@@ -24015,6 +24020,7 @@
 ||fxstyle.net^
 ||fxwykuxh.com^
 ||fy14.cn^
+||fyafcyawfevr.com^
 ||fyber.com^
 ||fybkhsfntvuyat.com^
 ||fyblppngxdt.com^
@@ -24130,6 +24136,7 @@
 ||gaizoopi.net^
 ||gak.webtoons.com^
 ||gakairohekoa.com^
+||gakvrqdquo.com^
 ||galaare.com^
 ||galachr.com^
 ||galairo.com^
@@ -26701,6 +26708,7 @@
 ||headlightgranulatedflee.com^
 ||headlightinfinitelyhusband.com^
 ||headline205.fun^
+||headline3452.fun^
 ||headphonedecomposeexcess.com^
 ||headphoneveryoverdose.com^
 ||headquarterinsufficientmaniac.com^
@@ -27049,6 +27057,7 @@
 ||hiboard-drcn.ai.dbankcloud.cn^
 ||hibssqnitlsgcm.com^
 ||hiccupcotman.com^
+||hichhereallyw.info^
 ||hickclamour.com^
 ||hickunwilling.com^
 ||hickytarp.space^
@@ -28358,6 +28367,7 @@
 ||ie8eamus.com^
 ||ieapak.xyz^
 ||iebsmqevw.com^
+||iecmca.xyz^
 ||ieequd.icu^
 ||ieicbkjmmqkcmgq.com^
 ||ieiukkwfqhwuvwy.com^
@@ -30195,6 +30205,7 @@
 ||jeejeetauz.com^
 ||jeejujou.net^
 ||jeekomih.com^
+||jeelmuyusa.com^
 ||jeephiney.net^
 ||jeepsaut.com^
 ||jeerinfluencemedical.com^
@@ -31908,6 +31919,7 @@
 ||korrelate.net^
 ||korunabevy.com^
 ||korununkept.digital^
+||kosininia.com^
 ||kostprice.com^
 ||kotikinar2ko8tiki09.com^
 ||kotnvzp.com^
@@ -38971,6 +38983,7 @@
 ||observativus.com^
 ||observedbrainpowerweb.com^
 ||observedlily.com^
+||observer3452.fun^
 ||observer384.fun^
 ||observerdispleasejune.com^
 ||obsesschristening.com^
@@ -39482,6 +39495,7 @@
 ||omitbailey.com^
 ||omitcalculategalactic.com^
 ||omitpollenending.com^
+||omjqukadtolg.com^
 ||omkitww.com^
 ||omkxadadsh.com^
 ||omkxes.xyz^
@@ -40747,6 +40761,7 @@
 ||pairschorus.com^
 ||paitoucaum.com^
 ||paiwaupseto.com^
+||paiwena.xyz^
 ||paiwhisep.com^
 ||paiwhoki.com^
 ||pajamasgnat.com^
@@ -41180,6 +41195,7 @@
 ||pcash.imlive.com^
 ||pcbrowser.dd.qq.com^
 ||pccasia.xyz^
+||pccjtxsao.com^
 ||pcdgninekvch.com^
 ||pceeyzmqnb.cc^
 ||pcfchubby.top^
@@ -41842,6 +41858,7 @@
 ||pigcomprisegruff.com^
 ||pigeon.surtitlesolutions.com^
 ||pigeon.thankyuu.com^
+||piggiepepo.xyz^
 ||pigistles.com^
 ||pigletinerm.com^
 ||pigletsmunsee.top^
@@ -43761,6 +43778,7 @@
 ||pub2.webmanagercenter.com^
 ||pub2srv.com^
 ||pubacca5mc.com^
+||pubadx.one^
 ||pubaka5.com^
 ||pubceremony.com^
 ||pubdirecte.com^
@@ -46581,6 +46599,7 @@
 ||rodent.livelinor.dk^
 ||rodirgix.com^
 ||rodisons.site^
+||rodmfv.xyz^
 ||rodplayed.com^
 ||rodrergi.com^
 ||rodroord.net^
@@ -47683,6 +47702,7 @@
 ||sandmakingsilver.info^
 ||sandsonair.com^
 ||sandtheircle.com^
+||sandwich3452.fun^
 ||sandwichdeliveringswine.com^
 ||sandysuspicions.com^
 ||sanedfalsely.com^
@@ -47704,6 +47724,7 @@
 ||santoscologne.com^
 ||santosfeltmanager.com^
 ||santosmiddle.com^
+||santtacklingallaso.com^
 ||sanufvuhaf.com^
 ||sapfailedfelon.com^
 ||sapfollower.com^
@@ -51769,6 +51790,7 @@
 ||surfingmister.com^
 ||surfmdia.com^
 ||surfmusik-adserver.de^
+||surfwestlaw.com^
 ||surge.systems^
 ||surgicalhanging.com^
 ||surgicaljunctiontriumph.com^
@@ -54429,6 +54451,7 @@
 ||trackersdk.bdash-cloud.com^
 ||trackeverything.co^
 ||trackgdi.com^
+||trackid.globoid.globo.com^
 ||trackimpression.com^
 ||tracking-amp.vnexpress.net^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
@@ -55535,6 +55558,7 @@
 ||u2tu4.icu^
 ||u2w95z.xyz^
 ||u33011.com^
+||u4ccj.icu^
 ||u55011.com^
 ||u578.wlwt.com^
 ||u595sebqih.com^
@@ -56679,6 +56703,7 @@
 ||uv.terra.com.br^
 ||uvbyty.com^
 ||uveaopqrttvukl.com^
+||uvekyvs.icu^
 ||uviajpcewsv.com^
 ||uvihslkx.com^
 ||uvipbmrzlram.com^
@@ -57811,6 +57836,7 @@
 ||vole.sonicrida.com^
 ||vole.tsttechnology.com^
 ||voleryclat.com^
+||volform.online^
 ||volleyballachiever.site^
 ||volna2babla1dh1.com^
 ||voltads.com^
@@ -58501,6 +58527,7 @@
 ||wdvlqbo.com^
 ||weakcompromise.com^
 ||wealthextend.com^
+||wealthsgraphis.com^
 ||wealthyamomal.com^
 ||wealthyonsethelpless.com^
 ||weanersporta.com^
@@ -58736,6 +58763,7 @@
 ||werbung.meteoxpress.com^
 ||weredthechild.info^
 ||wereksbeforebut.info^
+||weremoiety.com^
 ||wererxrzmp.com^
 ||werped.com^
 ||werssf.com^
@@ -61800,6 +61828,7 @@
 ||zetchopa.xyz^
 ||zetcul.xyz^
 ||zetheesug.com^
+||zetutsooz.net^
 ||zeuqmpe.icu^
 ||zeus.ad.xiaomi.com^
 ||zeus.developershed.com^
