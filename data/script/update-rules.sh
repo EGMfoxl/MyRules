@@ -16,15 +16,20 @@ cd tmp
 
 echo '下载规则'
 rules=(
-  "https://small.oisd.nl/" #oisd规则
-  "https://easylist.to/easylist/easylist.txt"
-  "https://easylist-downloads.adblockplus.org/easylistchina.txt"
+  "https://big.oisd.nl/" #oisd规则
+  "https://anti-ad.net/easylist.txt"
+  "https://easylist.to/easylist/easylist.txt" #EasyList
+  "https://github.com/Goooler/1024_hosts/blob/master/hosts" #1024_hosts
+  "https://easylist-downloads.adblockplus.org/easylistchina.txt" #Easylistchina
+  "https://raw.githubusercontent.com/vokins/yhosts/master/hosts" #yhosts
+  "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" #Stevenblack
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风
  )
 
 allow=(
   "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
   "https://raw.githubusercontent.com/ChengJi-e/AFDNS/master/QD.txt"
+  "https://github.com/Goooler/1024_hosts/blob/master/whitelist"
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"
