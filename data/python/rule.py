@@ -1,24 +1,19 @@
 import os
 
-# 去重开始
 print("规则去重中")
-os.chdir(".././")  # 将当前目录更改为.././目录下
-files = os.listdir()  # 得到文件夹下的所有文件名称
-result = []
-for file in files:  # 遍历文件夹
-    if not os.path.isdir(file):  # 判断是否是文件夹，不是文件夹才打开
-        if os.path.splitext(file)[1] == '.txt':
-            # print('开始去重'+(file))
-            f = open(file, encoding="utf8")  # 打开文件
-            result = list(set(f.readlines()))
-            result.sort()
-            fo = open('test' + (file), "w", encoding="utf8")
-            fo.writelines(result)
-            f.close()
-            fo.close()
-            os.remove(file)
-            os.rename('test' + (file), (file))
-            # print((file) + '去重完成')
 
-# 处理完毕
+# Get list of all files in current directory
+files = os.listdir()
+
+for file in files:
+    if os.path.isfile(file) and file.endswith('.txt'):
+        with open(file, 'r', encoding='utf8') as f:
+            lines = f.readlines()
+        
+        # Remove duplicates and sort lines
+        lines = sorted(set(lines))
+        
+        with open(file, 'w', encoding='utf8') as f:
+            f.writelines(lines)
+        
 print("规则去重完成")
