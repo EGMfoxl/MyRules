@@ -2,9 +2,9 @@
 ! Title: Rules
 ! Homepage: https://github.com/EGMfoxl/MyRules
 ! Expires: 12 Hours
-! Version: 2024-07-22 20:23:35（北京时间）
+! Version: 2024-07-23 08:56:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2130
+! Total count: 2131
 @@$generichide,domain=vidoza.co|vidoza.net
 @@*.flyme.cn
 @@*.myapp.com
@@ -319,9 +319,7 @@
 @@||adobedtm.com^$script,domain=sonystyle.com.cn
 @@||adobedtm.com^*/satelliteLib-$script,domain=samsungmembers.cn
 @@||adoi.cn^$generichide
-@@||ads-api.twitter.com^$domain=ads.twitter.com|analytics.twitter.com
 @@||ads-i.org/images/ads3.jpg$~third-party
-@@||ads-twitter.com/oct.js$domain=ncsoft.jp
 @@||ads-twitter.com/uwt.js$domain=factory.pixiv.net
 @@||ads.95516.com^
 @@||ads.adthrive.com/api/$domain=adamtheautomator.com|mediaite.com|packhacker.com|packinsider.com
@@ -378,7 +376,6 @@
 @@||ads.tiktok.com^$popup
 @@||ads.tiktok.com^$~third-party
 @@||ads.twitter.com^
-@@||ads.twitter.com^$domain=ads.twitter.com|analytics.twitter.com
 @@||ads.twitter.com^$popup
 @@||ads.vk.com^
 @@||ads.vk.com^$popup
@@ -615,6 +612,7 @@
 @@||britannica.com/mendel-resources/3-52/js/libs/prebid4.$script,~third-party
 @@||broadcastlv.chat.bilibili.com^
 @@||broccoli.uc.cn^$important
+@@||browserbench.org^$generichide
 @@||btrace.qq.com^$important
 @@||btsax.info^$generichide
 @@||builder.io^$generichide
@@ -1316,7 +1314,6 @@
 @@||macauo2o.com/advertise/
 @@||mail.bg/mail/index/getads/$xmlhttprequest
 @@||mail.google.com^$generichide
-@@||mail.proton.me^$generichide
 @@||mail.qq.com^$important
 @@||mail.td^$generichide
 @@||makeuseof.com/public/build/images/bg-advert-with-us.$~third-party
@@ -1411,6 +1408,7 @@
 @@||mtouch.facebook.com/ads/api/preview/$domain=business.facebook.com
 @@||mui.com^$generichide
 @@||music.amazon.$generichide
+@@||music.youtube.com^$generichide
 @@||musictrack.jp/a/ad/banner_member.jpg
 @@||muzlan.top/ads/banner.png
 @@||muzlan.top^$generichide
@@ -1424,6 +1422,7 @@
 @@||nav.browser.miui.com^
 @@||nc-myus.com/images/pub/www/uploads/merchant-logos/$image,~third-party
 @@||nceea.cn/Content/images/ad/
+@@||nebula.tv^$generichide
 @@||netded.com/plus/ad_js.php?aid=3|
 @@||netflav.com^$generichide
 @@||netflix.com^$generichide
@@ -1566,6 +1565,7 @@
 @@||profile*.se.360.cn^
 @@||promo.com/embed/$subdocument,third-party
 @@||promo.zendesk.com^$xmlhttprequest,domain=promo.com
+@@||proton.me^$generichide
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
 @@||przegladpiaseczynski.pl/wp-content/uploads/*-300x250-$image,~third-party
 @@||ps.w.org^$image,domain=wordpress.org
@@ -1825,6 +1825,7 @@
 @@||tce.alicdn.com^$domain=alimama.com
 @@||tdid.m.qq.com^$important
 @@||tdn.da-services.ch/libs/prebid8.$script,domain=20min.ch
+@@||teams.live.com^$generichide
 @@||teams.microsoft.com^$generichide
 @@||tenki.jp/storage/static-images/top-ad/
 @@||tenpay.com/v2/res/pub/cps/main/bottom_ad.js
