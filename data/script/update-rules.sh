@@ -16,10 +16,12 @@ cd tmp
 echo '下载规则'
 rules=(
   "https://big.oisd.nl/" #oisd规则
-  "https://anti-ad.net/easylist.txt"
+  "https://anti-ad.net/easylist.txt" #anti-ad
   "https://easylist.to/easylist/easylist.txt" #EasyList
+  "https://easylist.to/easylist/easyprivacy.txt" #EasyListprivacy
   "https://easylist-downloads.adblockplus.org/easylistchina.txt" #Easylistchina
-  "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" #Stevenblack
+  "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt" #乘风视频
+  "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风
  )
 
