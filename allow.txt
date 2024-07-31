@@ -2,7 +2,7 @@
 ! Title: Rules
 ! Homepage: https://github.com/EGMfoxl/MyRules
 ! Expires: 12 Hours
-! Version: 2024-07-31 08:46:44（北京时间）
+! Version: 2024-07-31 20:23:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 2846
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -2404,7 +2404,7 @@
 @@||suntory.co.jp/beer/kinmugi/css2020/ad.css?
 @@||suntory.co.jp/beer/kinmugi/img/ad/$image,~third-party
 @@||suo.im^$important
-@@||supercloudsms.com/static/ad/ads.js
+@@||supercloudsms.com/js/ad
 @@||support.google.com^$domain=support.google.com
 @@||support.weixin.qq.com^
 @@||survey.g.doubleclick.net^$script,domain=sporcle.com
