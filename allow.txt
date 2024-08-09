@@ -2,9 +2,9 @@
 ! Title: Rules
 ! Homepage: https://github.com/EGMfoxl/MyRules
 ! Expires: 12 Hours
-! Version: 2024-08-08 20:23:08（北京时间）
+! Version: 2024-08-09 08:58:08（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2849
+! Total count: 2851
 @@$generichide,domain=vidoza.co|vidoza.net
 @@*.flyme.cn
 @@*.myapp.com
@@ -535,6 +535,7 @@
 @@||api.adinplay.com/libs/aiptag/$script
 @@||api.adnetmedia.lt/api/$~third-party
 @@||api.ads.tvb.com^
+@@||api.aliagents.ai/api/v1/activity$~third-party,xmlhttprequest
 @@||api.amplitude.com^$xmlhttprequest,domain=insiderintelligence.com
 @@||api.apolomedia.com/static/libs/event-tracking.min.js$script
 @@||api.babbel.io/gamma/v1/$ping,domain=babbel.com
@@ -2081,6 +2082,7 @@
 @@||pubads.g.doubleclick.net/ssai/
 @@||public.fbot.me/events/$domain=casper.com
 @@||publicwww.com^$generichide
+@@||pubscholar.cn/static/common/fingerprint.js$script,~third-party
 @@||pushpushgo.com/js/$script,domain=centrumriviera.pl
 @@||puui.qpic.cn^
 @@||pv.sohu.com/cityjson$domain=ems.com.cn
